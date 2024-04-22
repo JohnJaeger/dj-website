@@ -3,6 +3,7 @@ body{
     flex-direction: column;
     margin: 0px;
     padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .box-1{
@@ -53,6 +54,9 @@ body{
     color: #e5e7eb;
 }
 
+.content-1 .left-content button{
+    margin-top: 16px;
+}
 .content-1 .right-content{
     width: 900px;
     height: auto;
@@ -167,7 +171,7 @@ button{
     background-color: #3882f6;
     color: #e5e7eb;
     border: none;
-    border-radius: 16px;
+    border-radius: 8px;
     width: 150px;
     height: auto;
 }
